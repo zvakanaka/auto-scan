@@ -1,4 +1,4 @@
-1. Open Document Scanner in Linux.
+1. Open [Document Scanner](https://gitlab.gnome.org/GNOME/simple-scan) in Linux.
 2. Place your photo(s) on the scanner bed.
 3. Open a terminal and run `scan.sh` from the directory you want your photos to be scanned into.
 4. Wait for scan to complete.
