@@ -8,3 +8,4 @@ It clicks things and names files (starting at 0.png) for you because scanning 10
 4. Wait for scan to complete.
 5. Replace the photos onthe scanner bed with the next photo(s).
 6. Press enter (your terminal window should have been automatically focused).
+7. Repeat steps 4-6 until all photos are scanned.
